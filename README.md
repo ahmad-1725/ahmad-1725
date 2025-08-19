@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ilyas</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-🌱 I’m currently learning **Frameworks**
-🌐 Frontend: React.js, JavaScript, HTML, CSS
-⚙️ Backend: Node.js, Express.js
-🗄️ Databases: MongoDB, MySQL
+🌱 I’m currently learning **Frameworks** <br>
+🌐 Frontend: React.js, JavaScript, HTML, CSS <br>
+⚙️ Backend: Node.js, Express.js <br>
+🗄️ Databases: MongoDB, MySQL <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
