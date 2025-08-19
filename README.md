@@ -2,12 +2,7 @@
 <h3 align="center">A passionate Web developer</h3>
 
 - 🌱 I’m currently learning **Frameworks**
-
 - 👯 I’m looking to collaborate on **Web Projects**
-
-- 💬 Ask me about **HTML, CSS, JS**
-
-- 📫 How to reach me **ahmadd.ilyas25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
